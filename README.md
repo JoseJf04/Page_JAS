@@ -1,4 +1,2 @@
 # Page_JAS
-Pagina de presentación de J &amp; A Solutions
-
-Pagina de presentacion sencilla de J & A Solutions en HTML Y CSS
+Pagina de presentacion sencilla para J & A Solutions en HTML Y CSS
